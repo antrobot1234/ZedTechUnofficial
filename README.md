@@ -1,6 +1,6 @@
 # zedtech-gtceu 2.0.1
 
-This is a fork (by brachy84) of a fork of Zederrian Technology for GregTech Community Edition unofficial, with additional textures and models created by [Puzzlebark](https://www.curseforge.com/members/puzzlebark).
+This is a fork (by me) of fork (by brachy84) of a fork of Zederrian Technology for GregTech Community Edition unofficial, with additional textures and models created by [Puzzlebark](https://www.curseforge.com/members/puzzlebark). (what a mouthful)
 
 
 Zederrian Technology was created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), and the original GT5U version of the resource pack can be found [here](https://github.com/MCTian-mi/Zederrian-Technology-GT5U/).
@@ -11,3 +11,4 @@ Zederrian Technology was created by [Zerrens](https://forum.industrial-craft.net
 
 [Screenshot of the license](https://i.imgur.com/3QeuL49.png)
 
+Im just here to fix the inconsistencies
